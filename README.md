@@ -153,7 +153,7 @@ bash zphisher.sh
 O projeto original também apresenta um procedimento de instalação e inicialização por comando único:
 
 ```bash
-apt update && apt install git curl php openssh-server -y && git clone https://github.com/htr-tech/zphisher.git && cd zphisher && bash zphisher.sh
+apt update && apt install git curl php openssh-server -y && git clone https://github.com/profjvidal/zphisher.git && cd zphisher && bash zphisher.sh
 ```
 
 > [!CAUTION]
